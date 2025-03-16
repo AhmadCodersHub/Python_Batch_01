@@ -1,0 +1,21 @@
+Problem-01:
+Create a program that takes a string as input and then prints out the number of vowels in the string
+
+Problem-02:
+Create a program that takes a list of strings as input and then prints out the longest string in the list.
+
+Problem-03:
+Create a program that takes a list of numbers as input and then prints out the largest and smallest numbers in the list.
+
+Problem-04:
+Create a program that takes two lists as input and then prints out the common elements between the two lists.
+
+Problem-05:
+Create a program that takes a list of numbers as input and then prints out the sum of the even numbers in the list.
+
+Problem-06:
+Create a program that takes a list of numbers as input and then prints out the second-largest number in the list.
+
+Problem-07:
+Create a program that takes a string as input and then removes all the vowels from the string.
+

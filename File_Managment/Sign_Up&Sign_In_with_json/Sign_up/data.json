@@ -1,0 +1,24 @@
+{
+    "all_data": [
+        {
+            "name": "admin",
+            "email": "admi123@gmail.com",
+            "password": "admin123"
+        },
+        {
+            "name": "Ali",
+            "email": "ali123@gmail.com",
+            "password": "ali123"
+        },
+        {
+            "name": "Raza",
+            "email": "raza123@gmail.com",
+            "password": "raza123"
+        },
+        {
+            "name": "Aftab",
+            "email": "aftab123@gmail.com",
+            "password": "aftab123"
+        }
+    ]
+}
